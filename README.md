@@ -28,6 +28,7 @@
 - [Part 4 — Post-Install Configuration](#-part-4--post-install-configuration)
 - [Part 5 — Promote to Domain Controller](#-part-5--promote-to-domain-controller)
 - [Part 6 — Populate Active Directory](#-part-6--populate-active-directory)
+- [Part 7 — Screenshots](#-Screenshots)
 - [Real Errors & Workarounds](#-real-errors--workarounds)
 - [Roadmap](#-roadmap)
 
@@ -546,8 +547,8 @@ Look at the **left edge of the VNC console window** in Proxmox. There is a small
 - [x] Windows Server 2022 installation
 - [x] Active Directory domain (corp.itops.local)
 - [x] 30 simulated enterprise users across 6 departments
-- [ ] Stale account report script (30/60/90 day thresholds)
-- [ ] HTML/CSV export for stale account reports
+- [X] Stale account report script (30/60/90 day thresholds)
+- [X] HTML/CSV export for stale account reports
 - [ ] Event log collector (Event ID 4624/4634)
 - [ ] Per-user login activity profiler
 - [ ] Safe maintenance window calculator
