@@ -28,7 +28,7 @@
 - [Part 4 — Post-Install Configuration](#-part-4--post-install-configuration)
 - [Part 5 — Promote to Domain Controller](#-part-5--promote-to-domain-controller)
 - [Part 6 — Populate Active Directory](#-part-6--populate-active-directory)
-- [Part 7 — Screenshots](#-Screenshots)
+- [Part 7 — [Screenshots](#screenshots)
 - [Real Errors & Workarounds](#-real-errors--workarounds)
 - [Roadmap](#-roadmap)
 
