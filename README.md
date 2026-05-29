@@ -440,6 +440,11 @@ Get-ADOrganizationalUnit -Filter * | Select-Object Name, DistinguishedName | For
 
 **Expected result:** 30 users + Administrator + Guest + krbtgt across 6 department OUs ✅
 
+
+## Screenshots
+
+### Stale Account Report Dashboard
+![Stale Account Report](Screenshots/stale-account-report.png)
 ---
 
 ## 🐛 Real Errors & Workarounds
