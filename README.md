@@ -445,6 +445,8 @@ Get-ADOrganizationalUnit -Filter * | Select-Object Name, DistinguishedName | For
 
 ### Stale Account Report Dashboard
 ![Stale Account Report](Screenshots/stale-account-report.png)
+![Stale Account Report](Screenshots/stale-account-report2.png)
+![Stale Account Report](Screenshots/stale-account-report3.png)
 ---
 
 ## 🐛 Real Errors & Workarounds
